@@ -1,6 +1,6 @@
 1. Okno ✓
 2. Tło ✓
-3. Scrollowalne tło X
+3. Scrollowalne tło ✓
 4. Czcionka X
 5. Plan lekcji X
 5. Dodanie lekcji, godzin lekcji, sali lekcyjnych X
