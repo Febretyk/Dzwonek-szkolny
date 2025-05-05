@@ -1,8 +1,0 @@
-1. Okno ✓
-2. Tło ✓
-3. Scrollowalne tło ✓
-4. Czcionka X
-5. Plan lekcji X
-5. Dodanie lekcji, godzin lekcji, sali lekcyjnych X
-6. Przeciąganie lekcji na plan X
-7. Zapisywanie danych po wyjściu z programu X
