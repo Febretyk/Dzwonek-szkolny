@@ -1,0 +1,9 @@
+Funkcje:
+
+Za pomocą lewego przycisku myszki można przesuwać widok aplikacji w górę i w dół
+
+Klikając przycisk "+" dodaje się lekcje do planu
+
+Klikając przyciski dni tygodnia można przełączyć widok danego dnia
+
+Po dodaniu lekcji lub kliknięciu w pole lekcji można zapisać w niej informacje 
